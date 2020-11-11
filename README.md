@@ -13,37 +13,5 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 
 
 ## Progetti <a name="progetti"></a>
-
-<details>
-    <summary>RockPaperScissors</summary>
-    <p>
-    <a name="RockPaperScissors"></a>
-
-```c#
-public class Order
-{
-    public int OrderId { get; set; }
-    public int CustomerId { get; set; }
-
-    public List<int> Products { get; set; }
-}
-```
-
-    </p>
-</details>
-<details>
-<summary>GoodBot</summary>
-<p>
-<a name="GoodBot"></a>
-```c#
-public class Order
-{
-    public int OrderId { get; set; }
-    public int CustomerId { get; set; }
-
-    public List<int> Products { get; set; }
-}
-```
-
-</p>
-</details>  
+### <a name="RockPaperScissors">RockPaperScissors</a>
+### <a name="GoodBot">GoodBot</a>
