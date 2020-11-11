@@ -1,16 +1,5 @@
-# Andrea Gennaioli
-
 ## Chi sono?
 Ciao, sono un giovane programmatore di 15 anni.
 Attualmente oserei dire che sono un Web Developer e un Discord BotDeveloper.
-Mi sono focalizzato nella creazione di siti web dinamici con JavaScript sia dal lato server che client, con l'ausilio della libreria `express`.
-
-<details>
-  <summary>Click to expand!</summary>
-  
-  ## Heading
-  1. A numbered
-  2. list
-     * With some
-     * Sub bullets
-</details>
+Mi sono focalizzato nella creazione di siti web dinamici con JavaScript sia dal lato server che client, con l'ausilio della libreria `express` e del runtime `Node.js`.
+Inoltre creao Chat Bot per Discord utilizzando sempre `Node.js` e la libreria `discord.js`. Ho provato anche a fare un libreria per velocizzare la creazione di bot per discord.
