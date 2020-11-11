@@ -15,7 +15,23 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 ## Progetti <a name="progetti"></a>
 
 <details>
-<summary>I could use some help...</summary>
+    <summary><h3><a name="RockPaperScissors">RockPaperScissors</a></h3></summary>
+    <p>
+
+```c#
+public class Order
+{
+    public int OrderId { get; set; }
+    public int CustomerId { get; set; }
+
+    public List<int> Products { get; set; }
+}
+```
+
+    </p>
+</details>  
+<details>
+<summary>I could use some help...<a name="RockPaperScissors"></a></summary>
 <p>
 
 ```c#
