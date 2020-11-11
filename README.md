@@ -16,7 +16,7 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 
 # Progetti <a name="progetti"></a>
 ## <a name="RockPaperScissors">RockPaperScissors</a>
-[![Discord Bots](https://top.gg/api/widget/servers/723877094920290305.svg)](https://top.gg/bot/723877094920290305)
+[![Discord Bots](https://top.gg/api/widget/servers/723877094920290305.svg)](https://top.gg/bot/723877094920290305)<br>
 Un Bot per Discord che ho creato in JS che attualmente è in 639 server.<br>
 Permette di far giocare a sasso carta forbici utente vs utente.<br>
 ## <a name="GoodBot">GoodBot</a>
