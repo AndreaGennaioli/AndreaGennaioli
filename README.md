@@ -15,8 +15,9 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 ## Progetti <a name="progetti"></a>
 
 <details>
-    <summary><a name="RockPaperScissors">RockPaperScissors</a></summary>
+    <summary>RockPaperScissors</summary>
     <p>
+    <a name="RockPaperScissors"></a>
 
 ```c#
 public class Order
@@ -31,9 +32,9 @@ public class Order
     </p>
 </details>
 <details>
-<summary><a name="GoodBot">GoodBot</a></summary>
+<summary>GoodBot</summary>
 <p>
-
+<a name="GoodBot"></a>
 ```c#
 public class Order
 {
