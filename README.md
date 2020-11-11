@@ -20,7 +20,7 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 ## <a name="GoodBot">GoodBot</a>
 GoodBot is a simple framework for building discord bots in JS.
 <details>
-  <summary><p>### Installation</p></summary>
+  <summary><h3>Installation</h3></summary>
 
 Use the package manager [npm](https://www.npmjs.com/) to install goodbot.
 
@@ -30,7 +30,7 @@ npm install goodbot
 </details>
 
 <details>
-  <summary><p>### Usage</p></summary>
+  <summary><h3>Usage</h3></summary>
 
 
 
@@ -87,7 +87,7 @@ module.exports = {
 </details>
 
 <details>
-  <summary><p>### More</p></summary>
+  <summary><h3>More</h3></summary>
 
 
 #### Default help command
