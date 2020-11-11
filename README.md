@@ -1,6 +1,6 @@
-**Indice** <a href="#chi-sono">Chi Sono</a>
+**Indice:** >[Chi Sono](#chi-sono) >[Chi Sono](#chi-sono)
 
-## Chi sono? {#chi-sono}
+## Chi sono? <a name="chi-sono"></a>
 Ciao, sono un giovane programmatore di 15 anni.<br>
 Attualmente oserei dire che sono un Web Developer e un Discord Bot Developer.<br>
 Mi sono focalizzato nella creazione di siti web dinamici con JavaScript sia dal lato server che client, con l'ausilio della libreria `express` e del runtime `Node.js`.<br>
