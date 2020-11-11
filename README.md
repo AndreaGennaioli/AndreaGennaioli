@@ -17,7 +17,7 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 # Progetti <a name="progetti"></a>
 ## <a name="RockPaperScissors">RockPaperScissors</a>
 Un Bot per Discord che ho creato in JS che attualmente è in 639 server.<br>
-Permette di far giocare a sasso carta forbici utente vs utente.
+Permette di far giocare a sasso carta forbici utente vs utente.<br>
 [![Discord Bots](https://top.gg/api/widget/723877094920290305.svg)](https://top.gg/bot/723877094920290305)
 ## <a name="GoodBot">GoodBot</a>
 GoodBot is a simple framework for building discord bots in JS.
