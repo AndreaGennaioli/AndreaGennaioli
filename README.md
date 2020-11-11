@@ -30,7 +30,7 @@ npm install goodbot
 </details>
 
 <details>
-  <summary><h3>Usage</h3></summary>
+  <summary><strong>Usage</strong></summary>
 
 
 
