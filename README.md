@@ -1,4 +1,4 @@
-**Indice:** >[Chi Sono](#chi-sono) >[Chi Sono](#chi-sono)
+**Indice:** >[Chi Sono](#chi-sono) >[Progetti](#progetti)
 
 ## Chi sono? <a name="chi-sono"></a>
 Ciao, sono un giovane programmatore di 15 anni.<br>
@@ -10,3 +10,23 @@ Ho scritto la mia prima riga di codice in pascal quando avevo 12 anni.<br>
 Poi ho imparato le basi del java con un corso su Udemy, passando per poco tempo su html e css.<br>
 Per molto tempo poi mi sono focalizzato sul C# creando giochi su Unity e programmi desktop.<br>
 Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, prima, nella programmazione dei Bot per Discord, poi, anche nella creazione di siti web dinamici con `express`.
+
+
+## Progetti <a name="progetti"></a>
+
+<details>
+<summary>I could use some help...</summary>
+<p>
+
+```c#
+public class Order
+{
+    public int OrderId { get; set; }
+    public int CustomerId { get; set; }
+
+    public List<int> Products { get; set; }
+}
+```
+
+</p>
+</details>  
