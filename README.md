@@ -19,16 +19,21 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 [![Discord Bots](https://top.gg/api/widget/723877094920290305.svg)](https://top.gg/bot/723877094920290305)
 ## <a name="GoodBot">GoodBot</a>
 GoodBot is a simple framework for building discord bots in JS.
-
-### Installation
+<details>
+  <summary><p>### Installation</p></summary>
 
 Use the package manager [npm](https://www.npmjs.com/) to install goodbot.
 
 ```bash
 npm install goodbot
 ```
+</details>
 
-### Usage
+<details>
+  <summary><p>### Usage</p></summary>
+
+
+
 
 #### To initialize the bot:
 
@@ -79,8 +84,11 @@ module.exports = {
   },
 };
 ```
+</details>
 
-### More
+<details>
+  <summary><p>### More</p></summary>
+
 
 #### Default help command
 To use the default help command:
@@ -99,3 +107,4 @@ How to get a command:
 ```js
 client.commandsCategories.get('moderation').get('ban');
 ```
+</details>
