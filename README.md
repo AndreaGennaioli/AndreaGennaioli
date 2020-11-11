@@ -20,7 +20,7 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 ## <a name="GoodBot">GoodBot</a>
 GoodBot is a simple framework for building discord bots in JS.
 <details>
-  <summary><h3>Installation</h3></summary>
+  <summary style="display:flex"><h3>Installation</h3></summary>
 
 Use the package manager [npm](https://www.npmjs.com/) to install goodbot.
 
