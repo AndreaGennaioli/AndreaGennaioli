@@ -24,7 +24,7 @@ Ecco vari link:<br>
 * [Top.gg](https://top.gg/bot/723877094920290305)
 * [dbots.co](https://dbots.co/bots/723877094920290305)
 ## <a name="GoodBot">GoodBot</a>
-[![Discord Bots](https://nodei.co/npm/goodbot.png)](https://www.npmjs.com/package/goodbot)
+[![Discord Bots](https://nodei.co/npm/goodbot.png)](https://www.npmjs.com/package/goodbot)<br>
 Un Framework per aiutare la creazione di Bot di Discord.<br>
 Scritto in JavaScript e pubblicato come package su npm, vi lascio il [suo link di npmjs.com](https://www.npmjs.com/package/goodbot) per il download.<br>
 Questo è il link per il suo [GitHub](https://github.com/AndreaGennaioli/GoodBot).<br>
