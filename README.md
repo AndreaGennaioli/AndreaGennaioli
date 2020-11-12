@@ -24,8 +24,8 @@ Ecco vari link:<br>
 * [Top.gg](https://top.gg/bot/723877094920290305)
 * [dbots.co](https://dbots.co/bots/723877094920290305)
 ## <a name="GoodBot">GoodBot</a>
-[![Discord Bots](https://nodei.co/npm/goodbot.png](https://www.npmjs.com/package/goodbot)
-<a href="" target="_blank" rel="noopener noreferrer">
+[![Discord Bots](https://nodei.co/npm/goodbot.png)](https://www.npmjs.com/package/goodbot)
+<a href="https://www.npmjs.com/package/goodbot" target="_blank" rel="noopener noreferrer">
 						  <img class="img-fluid" style="margin-top: 10px; margin-bottom: 10px" src="" alt="NPM info"/>
                         </a><br>
 Un Framework per aiutare la creazione di Bot di Discord.<br>
