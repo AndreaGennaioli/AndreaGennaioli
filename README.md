@@ -9,9 +9,9 @@ Sicuramente il mio progetto che ha avuto più successo è [RockPaperScissors](#R
 
 
 Ho scritto la mia prima riga di codice in pascal quando avevo 12 anni.<br>
-Poi ho imparato le basi del java con un corso su Udemy, passando per poco tempo su html e css.<br>
+Poi ho imparato le basi del Java con un corso su Udemy, passando per poco tempo su HTML e CSS.<br>
 Per molto tempo poi mi sono focalizzato sul C# creando giochi su Unity e programmi desktop.<br>
-Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, prima, nella programmazione dei Bot per Discord, poi, anche nella creazione di siti web dinamici con `express`.
+Per un paio di mesi ho sperimentato il Python, ed infine mi sono focalizzato, prima, nella programmazione dei Bot per Discord, poi, anche nella creazione di siti web dinamici con `express`.
 
 
 # Progetti <a name="progetti"></a>
