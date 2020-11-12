@@ -21,7 +21,7 @@ Ecco i miei progetti degni di nota:
 Un Bot per Discord che ho creato in JS che attualmente è in 639 server.<br>
 Permette di far giocare a sasso carta forbici utente vs utente.<br>
 Ecco vari link:<br>
-* [Sito del bot](https://www.rps-bot.tk/)
+* [Sito del bot](https://www.rps-bot.tk/) ([GitHub qui](https://github.com/AndreaGennaioli/rockpaperscissors-website))
 * [Top.gg](https://top.gg/bot/723877094920290305)
 * [dbots.co](https://dbots.co/bots/723877094920290305)
 ## <a name="GoodBot">GoodBot</a>
