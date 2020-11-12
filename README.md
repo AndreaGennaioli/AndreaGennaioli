@@ -34,4 +34,7 @@ Non è niente di serio (i download settimanali si aggirano sui 15, e totali sui 
 
 ## <a name="captcha-api">Captcha Api (webapi)</a>
 E' una semplice web api che ho fatto per prova.<br>
-Dopo aver fatto una richiesta a `https://captchaapi.herokuapp.com/generator` l'api rimandera indietro come risposta un'immagine (sfondo bianco con il codice scritto in nero) e il codice vero e proprio sotto forma di stringa.<br>Ecco il link per il [GitHub](https://github.com/AndreaGennaioli/captcha-api) dove trovate anche la piccola documentazione.
+Dopo aver fatto una richiesta a https://captchaapi.herokuapp.com/generator l'api rimandera indietro come risposta un'immagine (sfondo bianco con il codice scritto in nero) e il codice vero e proprio sotto forma di stringa.<br>
+Ecco il link per il [GitHub](https://github.com/AndreaGennaioli/captcha-api) dove trovate anche la piccola documentazione.
+
+Sempre scritto in JS, è un server fatto con `express` che, una volta aver fatto una richiesta GET a https://captchaapi.herokuapp.com/generator, con una semplice funzione random genera un codice. Poi viene creata anche un immagine usando la libraria `canvas` 200x100px con sfondo bianco e codice nero scritto sopra, salvandola in un file `.png` all'interno della cartella `captcha/` del server. In fine il server come risposta manda un oggetto JSON contenente il link all'immagine del captcha e il codice scritto in stringa.
