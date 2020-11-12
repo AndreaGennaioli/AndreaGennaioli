@@ -30,3 +30,7 @@ Scritto in JavaScript e pubblicato come package su npm, vi lascio il [suo link d
 Questo è il link per il suo [GitHub](https://github.com/AndreaGennaioli/GoodBot).<br>
 
 Non è niente di serio (i download settimanali si aggirano sui 15, e totali sui 800) e l'ho fatto solo per vedere effettivamente come si creavano e pubblicavano package su npm.<br>
+
+## <a name="captcha-api">Captcha Api (webapi)</a>
+E' una semplice web api che ho fatto per prova.<br>
+Dopo aver fatto una richiesta a `https://captchaapi.herokuapp.com/generator` l'api rimandera indietro come risposta un'immagine (sfondo bianco con il codice scritto in nero) e il codice vero e proprio sotto forma di stringa.<br>Ecco il link per il [GitHub](https://github.com/AndreaGennaioli/captcha-api) dove trovate anche la piccola documentazione.
