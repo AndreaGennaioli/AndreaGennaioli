@@ -26,8 +26,10 @@ Ecco vari link:<br>
 ## <a name="GoodBot">GoodBot</a>
 <a href="https://www.npmjs.com/package/goodbot" target="_blank" rel="noopener noreferrer">
 						  <img class="img-fluid" style="margin-top: 10px; margin-bottom: 10px" src="https://nodei.co/npm/goodbot.png" alt="NPM info">
-                        </a>
+                        </a><br>
 Un Framework per aiutare la creazione di Bot di Discord.
-Scritto in JavaScript e pubblicato come package su npm, vi lascio il link di npmjs.com per il download.
+Scritto in JavaScript e pubblicato come package su npm, vi lascio il [suo link di npmjs.com](https://www.npmjs.com/package/goodbot) per il download.
+Questo è il link per il suo [GitHub](https://github.com/AndreaGennaioli/GoodBot).
 
-Questo è il link per GitHub.
+Non è niente di serio (i download settimanali si aggirano sui 15, e totali sui 800) e l'ho fatto solo per vedere effettivamente come si creavano e pubblicavano package su npm.
+
