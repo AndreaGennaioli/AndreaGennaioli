@@ -19,4 +19,8 @@ Per un paio di mesi ho sperimentato il python, ed infine mi sono focalizzato, pr
 [![Discord Bots](https://top.gg/api/widget/servers/723877094920290305.svg)](https://top.gg/bot/723877094920290305)<br>
 Un Bot per Discord che ho creato in JS che attualmente è in 639 server.<br>
 Permette di far giocare a sasso carta forbici utente vs utente.<br>
+Ecco vari link:<br>
+* [Sito del bot](https://www.rps-bot.tk/)
+* [Top.gg](https://top.gg/bot/723877094920290305)
+* [dbots.co](https://dbots.co/bots/723877094920290305)
 ## <a name="GoodBot">GoodBot</a>
