@@ -1,4 +1,5 @@
 **Indice:** | [Chi Sono](#chi-sono) | [Progetti](#progetti)
+> Attualmente sto lavorando ad una bot list italiana: https://primebots.it/
 
 # Chi sono? <a name="chi-sono"></a>
 Ciao, sono un giovane programmatore di 15 anni.<br>
