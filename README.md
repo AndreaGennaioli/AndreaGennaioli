@@ -19,7 +19,7 @@ Per un paio di mesi ho sperimentato il Python, ed infine mi sono focalizzato, pr
 Ecco i miei progetti degni di nota:
 ## <a name="RockPaperScissors">RockPaperScissors</a>
 [![Discord Bots](https://top.gg/api/widget/servers/723877094920290305.svg)](https://top.gg/bot/723877094920290305)<br>
-Un Bot per Discord che ho creato in JS (con `discord.js`) che attualmente è in 639 server.<br>
+Un Bot per Discord che ho creato in JS (con `discord.js`) che attualmente è in 1300 server.<br>
 Permette di far giocare a sasso carta forbici utente vs utente.<br>
 Ecco vari link:<br>
 * [Sito del bot](https://www.rps-bot.tk/) ([GitHub qui](https://github.com/AndreaGennaioli/rockpaperscissors-website))
