@@ -39,3 +39,6 @@ Dopo aver fatto una richiesta a https://captchaapi.herokuapp.com/generator l'api
 Ecco il link per il [GitHub](https://github.com/AndreaGennaioli/captcha-api) dove trovate anche la piccola documentazione.
 
 Sempre scritto in JS, è un server fatto con `express` che, una volta aver fatto una richiesta GET a https://captchaapi.herokuapp.com/generator, con una semplice funzione random genera un codice. Poi viene creata anche un immagine usando la libraria `canvas` 200x100px con sfondo bianco e codice nero scritto sopra, salvandola in un file `.png` all'interno della cartella `captcha/` del server. In fine il server come risposta manda un oggetto JSON contenente il link all'immagine del captcha e il codice scritto in stringa.
+
+
+![](https://komarev.com/ghpvc/?username=your-github-username&color=grey) 
