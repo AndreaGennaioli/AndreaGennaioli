@@ -6,7 +6,7 @@ Ciao, sono un giovane programmatore di 16 anni.<br>
 Attualmente oserei dire che sono un Web Developer e un Discord Bot Developer.<br>
 Mi sono focalizzato nella creazione di siti web dinamici con JavaScript sia dal lato server che client, con l'ausilio della libreria `express` e del runtime `Node.js`.<br>
 Inoltre ho creato vari Chat Bot per Discord utilizzando sempre `Node.js` e la libreria `discord.js`. Ho provato anche a fare un libreria ([GoodBot](#GoodBot)) per velocizzare la creazione di bot per discord inserendola nel gestore di package [npm](https://www.npmjs.com/).<br>
-Sicuramente il mio progetto che ha avuto più successo è [RockPaperScissors](#RockPaperScissors), un Bot per Discord che nel momento in qui lo scrivo è in 1300 server
+Sicuramente il mio progetto che ha avuto più successo è [RockPaperScissors](#RockPaperScissors), un Bot per Discord che nel momento in cui lo scrivo è in 1300 server
 
 
 Ho scritto la mia prima riga di codice in pascal quando avevo 12 anni.<br>
