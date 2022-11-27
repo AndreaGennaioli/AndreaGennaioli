@@ -1,5 +1,5 @@
 ## Andrea Gennaioli
-I'm a 16yo italian web developer. I like to try new technologies and sometimes I do random things not related to web development.
+I'm a 17yo italian web developer. I like to try new technologies and sometimes I do random things not related to web development.
 ## Tools and languages I use/know
 - **Front-end development**: <br> <br>
 [![](https://skillicons.dev/icons?i=html,css,js,ts,tailwind,bootstrap,react,nextjs,materialui,styledcomponents,emotion,svelte&perline=6)](https://skillicons.dev) <br> <br>
